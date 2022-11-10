@@ -1,8 +1,8 @@
 [
     {
         "name": "Reading Press Releases",
-        "duration": "6 months",
-        "img": "https://i.ibb.co/Qft8Jbw/data-science-specialization.jpg",
+        "duration": "1 Day",
+        "img": "https://i.ibb.co/DGTx74q/reading-press-releases.jpg",
         "price": 199.99,
         "rating": {
             "number": 5.0,
@@ -12,57 +12,57 @@
     },
     {
         "name": "Researching Articles",
-        "duration": "6 months",
-        "img": "https://i.ibb.co/C2V33Yk/machine-learning-specialization.jpg",
+        "duration": "1 Article",
+        "img": "https://i.ibb.co/Y0zvsp7/researching-articles.jpg",
         "price": 149.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
         },
-        "description": "This course provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)"
+        "description": "There are many types of research article, published every year. Original research articles are often the first thing you think of when you hear the words ‘journal article’. In reality, research work often results in a whole mixture of different outputs and it’s not just the final research article that can be published. Finding a home to publish your supporting work in different formats can help you start publishing sooner. And, it will allow you to build your publication record and research profile."
     },
     {
         "name": "Interviewing Sources",
-        "duration": "6 months",
-        "img": "https://i.ibb.co/yybFgbs/web-development-specialization.png",
-        "price": 149.99,
+        "duration": "1 Interview",
+        "img": "https://i.ibb.co/X4kRc9R/interviewing-sources.jpg",
+        "price": 199.99,
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
         },
-        "description": "The first two courses in this Specialization cover front-end frameworks: Bootstrap  and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript."
+        "description": "Interviews may be conversational, but they are not casual conversations. Organization is essential, as is attention to detail and a firm will. The process also begins well before you talk with the other person, be it face to face, on the telephone or over the Internet. The intensity of your preparations may vary depending on the gravity and importance of the interview."
     },
     {
         "name": "Proofreading",
-        "duration": "6 months",
-        "img": "https://i.ibb.co/mHFzGw9/python.png",
-        "price": 69.99,
+        "duration": "Single Copy",
+        "img": "https://i.ibb.co/nsbLC17/proofreading.jpg",
+        "price": 299.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
         },
-        "description": "Go from Beginner to Advanced in Python Programming by learning all of the basics to Object Orientated Programming."
+        "description": "Proofreading means carefully checking for errors in a text before it is published or shared. It is the very last stage of the writing process, when you fix minor spelling and punctuation mistakes, typos, formatting issues and inconsistencies. Proofreading is essential for any text that will be shared with an audience, whether it’s an academic paper, a job application, an online article, or a print flyer. Depending on your skills and budget, you can choose to proofread the text yourself or to hire a professional."
     },
     {
         "name": "Attending Events",
-        "duration": "6 months",
-        "img": "https://i.ibb.co/QNCFxvj/javascript.jpg",
-        "price": 69.99,
+        "duration": "1 Event",
+        "img": "https://i.ibb.co/zQPRHwY/attending-events.jpg",
+        "price": 299.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
         },
-        "description": "Learn javascript online and supercharge your web design with this Javascript for beginners training course."
+        "description": "Attending industry events, such as conferences and award shows, is an impactful way to solidify your presence and voice as an industry leader, network with peers and continue to build awareness of your company. Using events as a marketing channel gives potential customers a unique, firsthand interaction with the company and a true sense of the company's focus, perspective, and personality.  Now more than ever, it's important for businesses to stand out from the crowd, and event marketing is a great place to start."
     },
     {
         "name": "Writing, Editing and Submitting Copy",
-        "duration": "6 months",
-        "img": "https://i.ibb.co/gDBQMJw/deep-learning.jpg",
+        "duration": "1 Copy",
+        "img": "https://i.ibb.co/MprCDrS/writing-editing-submitting-copy.jpg",
         "price": 99.99,
         "rating": {
             "number": 5.0,
             "badge": "Excellent"
         },
-        "description": "In this course, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more."
+        "description": "Writing, editing and submitting copy is a process applicable to a multitude of writing fields within the publishing industry. Whether the text is a book, a magazine, a news article, or an advertisement, chances are a copy editor looked at it somewhere along the way. A good copy editor has an expansive skill set, involving strong attention to detail, knowledge about a variety of subject matters, and an ability to communicate their edits clearly and efficiently."
     }
 ]
