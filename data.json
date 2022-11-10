@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Reading Press Releases",
+        "duration": "6 months",
+        "img": "https://i.ibb.co/Qft8Jbw/data-science-specialization.jpg",
+        "price": 199.99,
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "description": "The  most important part of writing a press release is to craft the lead. That’s exactly where the impatient ones will find the answers to the most important questions, including the five W’s: what the news is about, who is involved, when and where it happened, and why it is important."
+    },
+    {
+        "name": "Researching Articles",
+        "duration": "6 months",
+        "img": "https://i.ibb.co/C2V33Yk/machine-learning-specialization.jpg",
+        "price": 149.99,
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "description": "This course provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)"
+    },
+    {
+        "name": "Interviewing Sources",
+        "duration": "6 months",
+        "img": "https://i.ibb.co/yybFgbs/web-development-specialization.png",
+        "price": 149.99,
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "description": "The first two courses in this Specialization cover front-end frameworks: Bootstrap  and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript."
+    },
+    {
+        "name": "Proofreading",
+        "duration": "6 months",
+        "img": "https://i.ibb.co/mHFzGw9/python.png",
+        "price": 69.99,
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "description": "Go from Beginner to Advanced in Python Programming by learning all of the basics to Object Orientated Programming."
+    },
+    {
+        "name": "Attending Events",
+        "duration": "6 months",
+        "img": "https://i.ibb.co/QNCFxvj/javascript.jpg",
+        "price": 69.99,
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "description": "Learn javascript online and supercharge your web design with this Javascript for beginners training course."
+    },
+    {
+        "name": "Writing, Editing and Submitting Copy",
+        "duration": "6 months",
+        "img": "https://i.ibb.co/gDBQMJw/deep-learning.jpg",
+        "price": 99.99,
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "description": "In this course, you will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more."
+    }
+]
